@@ -1,4 +1,4 @@
-# ☁️ AWS S3 Static Website with Disaster Recovery & Lifecycle Management
+# ☁️ AWS S3 Static Website Hosting with Data Protection and Disaster Recovery
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
