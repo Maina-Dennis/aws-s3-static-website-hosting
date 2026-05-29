@@ -309,4 +309,3 @@ This project fundamentally shifted how I think about cloud storage — from trea
 
 ---
 
-*Built as part of an AWS hands-on lab. © Lab instructions adapted from Amazon Web Services training content.*
