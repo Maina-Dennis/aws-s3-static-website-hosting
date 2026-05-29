@@ -66,7 +66,7 @@ http://<bucket-name>.s3-website-<region>.amazonaws.com
 └─────────────────────────────────────────────────┘
 ```
 
-> See `architecture-diagram.png` for the full visual reference.
+> See `screenshots/static-website-architecture.png` for the full visual reference.
 
 ![Architecture Diagram](screenshots/static-website-architecture.png)
 
@@ -290,12 +290,8 @@ This project fundamentally shifted how I think about cloud storage — from trea
 
 | View | Description |
 |---|---|
-| ![Architecture](screenshots/static-website-architecture.png) | Multi-region S3 architecture with CRR |
+| ![Architecture](screenshots/static-website-architecture.png) | Multi-region S3 architecture with Cross-Region Replication |
 
-> **Live Demo:** *(Add your S3 website endpoint URL here once deployed)*
-> ```
-> http://<your-bucket-name>.s3-website-us-east-1.amazonaws.com
-> ```
 
 ---
 
